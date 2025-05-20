@@ -1,8 +1,4 @@
-Here’s a clean and professional `README.md` for your **Memory Game** project, with emojis used in a balanced and visually helpful way:
 
----
-
-```markdown
 # 🧠 Memory Game
 
 A fun and interactive **Memory Matching Game** built using **HTML**, **CSS**, and **JavaScript**. Flip cards to find matching pairs and test your memory skills!
