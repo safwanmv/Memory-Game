@@ -8,8 +8,11 @@ A fun and interactive **Memory Matching Game** built using **HTML**, **CSS**, an
 
 ## 📸 Screenshot
 
-![Memory Game Screenshot](screenshot.png) <!-- Replace with an actual image if available -->
+![Memory Game Screenshot](Screenshot%201.png)
 
+![Memory Game Screenshot](Screenshot%202.png)
+
+![Memory Game Screenshot](Screenshot%203.png)
 ## 🚀 Features
 
 - 🎴 16 shuffled cards (8 pairs)
